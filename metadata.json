@@ -1,0 +1,15 @@
+{
+    "name": "Z4 Token",
+    "symbol": "Z4T",
+    "description": "Z4T is a utility token On Solana",
+    "decimals": 9,
+    "initial_supply": 200000000,
+    "uri" : "https://github.com/z4network/Z4Token/raw/refs/heads/main/metadata.json",
+    "image": "https://github.com/z4network/Z4Token/raw/refs/heads/main/z4token.png",
+    "attributes": [
+      {
+        "trait_type": "Token",
+        "value": "New Token on Solana"
+      }
+    ]
+  }
